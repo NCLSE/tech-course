@@ -2,7 +2,7 @@
 
 ## Preambule
 
-This repository contains a collection of links to register / get courses on technology that I have collected. many of which are "hidden" from the internet. Most of them come from various MOOC universities. If there are suggestions, criticisms, or even corrections, please make an issue. I'm open to contributors adding courses that don't exist yet.
+This repository contains a collection of links to register / get courses anout technology that I have collected. many of which are "hidden" from the internet. Most of them come from various MOOC universities. If there are suggestions, criticisms, or even corrections, please make an issue. I'm open to contributors adding courses that don't exist yet.
 
 ## Table of Contents
 
