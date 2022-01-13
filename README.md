@@ -2,7 +2,7 @@
 
 ## Preambule
 
-This repository contains a collection of links to register / get courses on technology that I have collected. many of which are "hidden" from the internet. Most of them come from various MOOC universities. If there are suggestions, criticisms, or even corrections, please make an [Issue](https://github.com/istiqlal-learn/tech-course/issues). I'm open to contributors adding courses that don't exist yet.
+This repository contains a collection of links to register / get courses on technology that I have collected. many of which are "hidden" from the internet. Most of them come from various MOOC universities. If there are suggestions, criticisms, or even corrections, please make an issue. I'm open to contributors adding courses that don't exist yet.
 
 ## Table of Contents
 
@@ -12,6 +12,16 @@ This repository contains a collection of links to register / get courses on tech
 ## Network
 
 ## Cyber Security
+Table of Cyber Security related courses
+
+| Course Title                                             | Instructure                                             | Provider               | Description                                                                                                               | Link                                                                           |
+|:-------------------------------------------------------- |:-------------------------------------------------------:|:----------------------:|:------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------:|
+| Fundamentals of Computer Network Security Specialization | Edward Chow                                             | University of Colorado | Launch your career in cyber security. Master security principles and tools for securing your networks, systems, and data. | [Link](https://www.coursera.org/specializations/computer-network-security)     |
+| IT Fundamentals for Cybersecurity Specialization         | IBM                                                     | IBM                    | Launch your career in Cybersecurity. Acquire the knowledge you need to work in Cybersecurity                              | [Link](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) |
+| Cybersecurity Specialization                             | Jennifer Golbeck, Michael Hicks, Jonathan Katz, Gang Qu | University of Maryland | Cybersecurity Fundamentals. Construction of Secure Systems                                                                | [Link](https://www.coursera.org/specializations/cyber-security)                |
+
+
+
 
 ---
 👨🏻 Created and initiated by [Iqlal](https://github.com/iqlal)
