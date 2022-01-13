@@ -1,2 +1,2 @@
-# tech-course
-Awesome list about technology courses
+# Curated List Tech Courses
+Created and initiated by @iqlal
