@@ -7,7 +7,7 @@ This repository contains a collection of links to register / get courses anout t
 ## Table of Contents
 
 - [Network](#Network)
-- [Cyber Security](#CyberSecurity)
+- [Cyber Security](#Cyber-Security)
 
 ## Network
 
