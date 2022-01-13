@@ -1,0 +1,1 @@
+> to easy read, write, and edit use [MarkText](https://github.com/marktext)
