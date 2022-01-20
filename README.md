@@ -10,6 +10,12 @@ This repository contains a collection of links to register / get courses anout t
 - [Cyber Security](#Cyber-Security)
 
 ## Network
+Table of Network related courses
+
+| Number | Course Title                | Instructure            | Provider                        | Description                                                                                                                                                                                                                                                                                  | Link                                                |
+|:------:|:--------------------------- |:----------------------:|:-------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------:|
+| 1      | Software Defined Networking | Dr. Nick Feamster      | The University of Chicago       | In this course, you will learn about software defined networking and how it is changing the way communications networks are managed, maintained, and secured.                                                                                                                                | [Link](https://www.coursera.org/learn/sdn)          |
+| 2      | Software Defined Networking | Umakishore Ramchandran | Georgia Institute of Technology | This course provides an introduction to data center networking technologies, more specifically software-defined networking. It covers the history behind SDN, description of networks in data-centers, a concrete data-center network architecture (Microsoft VL2), and traffic engineering. | [Link](https://www.coursera.org/learn/sdnetworking) |
 
 ## Cyber Security
 Table of Cyber Security related courses
