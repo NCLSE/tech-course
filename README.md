@@ -25,9 +25,3 @@ Table of Cyber Security related courses
 | 1      | Fundamentals of Computer Network Security Specialization | Edward Chow                                             | University of Colorado | Launch your career in cyber security. Master security principles and tools for securing your networks, systems, and data. | [Link](https://www.coursera.org/specializations/computer-network-security)     |
 | 2      | IT Fundamentals for Cybersecurity Specialization         | IBM                                                     | IBM                    | Launch your career in Cybersecurity. Acquire the knowledge you need to work in Cybersecurity                              | [Link](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) |
 | 3      | Cybersecurity Specialization                             | Jennifer Golbeck, Michael Hicks, Jonathan Katz, Gang Qu | University of Maryland | Cybersecurity Fundamentals. Construction of Secure Systems                                                                | [Link](https://www.coursera.org/specializations/cyber-security)                |
-
-
-
-
----
-👨🏻 Created and initiated by [Iqlal](https://github.com/iqlal)
